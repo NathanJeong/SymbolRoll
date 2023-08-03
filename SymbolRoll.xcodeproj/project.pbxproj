@@ -16,6 +16,7 @@
 		C48C460A2A7BEC710062E548 /* SymbolRollTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C48C46092A7BEC710062E548 /* SymbolRollTests.swift */; };
 		C48C46142A7BEC710062E548 /* SymbolRollUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C48C46132A7BEC710062E548 /* SymbolRollUITests.swift */; };
 		C48C46162A7BEC710062E548 /* SymbolRollUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C48C46152A7BEC710062E548 /* SymbolRollUITestsLaunchTests.swift */; };
+		C48C46232A7BF2B80062E548 /* SymbolRollViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C48C46222A7BF2B80062E548 /* SymbolRollViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		C48C460F2A7BEC710062E548 /* SymbolRollUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SymbolRollUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		C48C46132A7BEC710062E548 /* SymbolRollUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SymbolRollUITests.swift; sourceTree = "<group>"; };
 		C48C46152A7BEC710062E548 /* SymbolRollUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SymbolRollUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		C48C46222A7BF2B80062E548 /* SymbolRollViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SymbolRollViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				C48C45F22A7BEC710062E548 /* AppDelegate.swift */,
 				C48C45F42A7BEC710062E548 /* SceneDelegate.swift */,
 				C48C45F62A7BEC710062E548 /* ViewController.swift */,
+				C48C46222A7BF2B80062E548 /* SymbolRollViewController.swift */,
 				C48C45F82A7BEC710062E548 /* Main.storyboard */,
 				C48C45FB2A7BEC710062E548 /* Assets.xcassets */,
 				C48C45FD2A7BEC710062E548 /* LaunchScreen.storyboard */,
@@ -261,6 +264,7 @@
 				C48C45F72A7BEC710062E548 /* ViewController.swift in Sources */,
 				C48C45F32A7BEC710062E548 /* AppDelegate.swift in Sources */,
 				C48C45F52A7BEC710062E548 /* SceneDelegate.swift in Sources */,
+				C48C46232A7BF2B80062E548 /* SymbolRollViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
